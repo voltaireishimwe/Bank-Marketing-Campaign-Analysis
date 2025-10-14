@@ -232,14 +232,13 @@ This comprehensive report demonstrates that data-driven approaches can significa
 
 ### Appendix A: Additional Visualizations
 - **Fig 1: Random Forest Important Features**  
-  *[Placeholder for visualization of feature importance]*  
+  *<img width="975" height="538" alt="image" src="https://github.com/user-attachments/assets/e4d47354-2ccd-49d6-bba6-9271144b7ecd" />*  
 - **Fig 2: ROC Curves**  
-  *[Placeholder for ROC curve visualization]*  
+  *<img width="808" height="521" alt="image" src="https://github.com/user-attachments/assets/ae2cf791-b556-4083-8b1b-bb155836f9bc" />*  
 - **Fig 3: Precision-Recall Curves**  
-  *[Placeholder for precision-recall curve visualization]*  
+  *<img width="975" height="628" alt="image" src="https://github.com/user-attachments/assets/f4bf2385-2ea6-4a3c-b76b-fe71677f2b1c" />*  
 - **Fig 4: Comparison of Feature Importance Measures Across Different Methodologies**  
-  *[Placeholder for feature importance comparison visualization]*  
-
+  *<img width="975" height="583" alt="image" src="https://github.com/user-attachments/assets/f2fa5ed4-edfa-42bf-ad06-a0b524ad5ea7" />*  
 ### Appendix B: Detailed Technical Results
 **Table 13: Random Forest Classification Report (Test Set)**  
 | Metric | Value |  
@@ -256,7 +255,6 @@ This comprehensive report demonstrates that data-driven approaches can significa
 | `poutcome_success` | 0.07 |  
 
 ### Appendix C: Code Snippets
-
 1. **Model Training Implementation**
 ```python
 # Random Forest with hyperparameter tuning
