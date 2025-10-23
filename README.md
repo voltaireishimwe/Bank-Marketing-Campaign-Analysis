@@ -1,13 +1,5 @@
 # Bank-Marketing-Campaign-Analysis
-# Comprehensive Data Preprocessing and Model Comparison Report
-
-**Full Name:** Voltaire ISHIMWE  
-**Program:** Masters of Science in Information Technology  
-**Module:** MSCIT9127 - Machine Learning and Big Data Analytics  
-**Date:** 10th October, 2025  
-**Category:** Data Analytics  
-**Description:** Bank Marketing Campaign Analysis  
-**Lecturer:** Dr. BUGINGO EMMANUEL  
+# COMPREHENSIVE DATA PREPROCESSING AND MODEL COMPARISON REPORT
 
 ## List of Tables
 - Table 1: Random Forest Model Performance
